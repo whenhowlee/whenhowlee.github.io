@@ -1,25 +1,24 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Some Journal about SLA"
 date:   2015-03-11 11:01:08
-categories: jekyll update
+categories: research
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 相关期刊 ##
 
-Jekyll also offers powerful support for code snippets:
+### SSCI收录 ###
+[Language Learning & Technology ](http://llt.msu.edu/)http://llt.msu.edu/点击链接可以下载全文
+![语言学习与技术](/figures/journal_language_learning_and_technology.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[Computer Assisted Language Learning](http://www.tandfonline.com/loi/ncal20 "Computer Assisted Language Learning")  点击链接可以看第一页  
+![计算机辅助语言学习](/figures/journal_computer_assisted_language_learning.jpg)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+[language learning](http://onlinelibrary.wiley.com/doi/10.1111/lang.12010/abstract)  点击链接可以全文下载
+![封面](/figures/Journal_language_learning.gif)
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+### 国外大学免费资源 ###
+[应用语言学杂志](http://www.dliflc.edu/publications.aspx "应用语言学")
+
+[语言学习技术协会期刊](http://www.iallt.org/iallt_journal)
+http://www.iallt.org/iallt_journal

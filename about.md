@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+我是华中师范大学的一名热爱多媒体学习的教师。本人最近一段时间一直在研究计算机辅助语言学习和第二语言习得。你可以从华中师范大学[教育信息技术学院](http://it.ccnu.edu.cn)获得更多关于研究的信息。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+本人2006年博士毕业于南京师范大学教育技术学专业，导师是祝智庭教授。
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+本人目前教授课程有多媒体学习、现代教育技术应用，一部分在线视频可以访问华师教学云空间。
