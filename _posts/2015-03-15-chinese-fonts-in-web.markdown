@@ -7,6 +7,7 @@ categories: technology
 
 参考了ks的[文章](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 下面是目前中文字体的最佳实践
+
 ## 操作系统的预装字体 ##
 操作系统决定了开发者可以使用的字体。所以，第一步，我们必须了解操作系统到底提供哪些字体。
 下面是两种操作系统采用的![字体](/figures/chinese_fonts_on_operation_sysytem.png)
