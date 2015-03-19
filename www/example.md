@@ -436,7 +436,6 @@ Now say together, "can understand", "can't understand".
 
 ---
 
-
 【导引】  
 Many Cantonese words can be made nagative by begining them with the sound.   
 Now try to say, "you can't understand"  
@@ -445,16 +444,13 @@ Now try to say, "you can't understand"
 
 ---
 
-# Pimsluer Cantonese One
 
-## Unit1 Lesson one
 【粤语】  
 “你唔识听”  
 
 ![](images/tingbudong.jpg)
 
 ---
-
 
 【导引】  
 Here's how to ask, "can you understand?".  
