@@ -1,4 +1,4 @@
-/**
+﻿/**
  * The reveal.js markdown plugin. Handles parsing of
  * markdown inside of presentations as well as loading
  * of external markdown documents.
@@ -126,6 +126,9 @@
 	function slidify( markdown, options ) {
 
 		options = getSlidifyOptions( options );
+
+		markdown = markdown.replace(/(\r\n|\r)/g, '\n');
+		
 
 		var separatorRegex = new RegExp( options.separator + ( options.verticalSeparator ? '|' + options.verticalSeparator : '' ), 'mg' ),
 			horizontalSeparatorRegex = new RegExp( options.separator );
