@@ -29,3 +29,14 @@ Note:命名为cantonses-lesson01.md
 
 ![](images/markdown_rules.png)
 
+---
+
+## 声音命名规则 ##
+![](images/markdown_voice_rule.png)
+
+这张图片上从左到右，从上到下，分别是
+
+|0.0.mp3  | 1.0.mp3 | 2.0.mp3|
+|---|--|--|
+|  |1.1.mp3|  |
+声音格式暂时不考虑ogg，统一用mp3
