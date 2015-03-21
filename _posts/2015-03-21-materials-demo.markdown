@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "Materials Demo Made by Students"
-date:   2015-03-21 20:41:08
+title:  "Learning Material Made by Students"
+date:   2015-03-21 21:25:08
 categories: course
 ---
 
