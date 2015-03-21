@@ -1,5 +1,4 @@
-﻿
-####本堂课主要内容
+﻿####本堂课主要内容
 * 简单的粤语开场白
 
 ![](images/cover.jpg)
@@ -7,7 +6,6 @@
 【Made by 柯俊豪、梁洪玉、吴倩、刘艺茹、乔婧怡、苏嫣、段若宜】
 
 ---
-
   
 【导引】  
 This is Unit 1 of Pimsleurs Cantonese One.  
