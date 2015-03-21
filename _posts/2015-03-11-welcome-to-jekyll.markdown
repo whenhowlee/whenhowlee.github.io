@@ -1,6 +1,6 @@
----
+﻿---
 layout: post
-title:  "Some Journal about SLA"
+title:  "Some Journals about SLA"
 date:   2015-03-11 11:01:08
 categories: research
 ---
