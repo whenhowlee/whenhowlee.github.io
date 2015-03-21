@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Some Journals about SLA"
 date:   2015-03-11 11:01:08
