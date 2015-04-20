@@ -1,6 +1,10 @@
 #粤语学习课件
 ##第一单元 - 第01课
+
+---
+
 请听对话
+
 ![](001images/group01_yueyu.jpg)
 
 ---
@@ -21,16 +25,16 @@
 #“请问”
 ![](001images/group01_qingwen.png)
 
---
+---
 
-##导引
+
 这位说广东话的人将会一部分一部分的重复，从开始到结束。你需要做的就是跟着他重复每个部分，尽量让你的发音和他的发音完全一样，并尽量大声朗读。
 
 ![](002images/02-daoyin.jpg)
 
 ---
 
-#请问
+
 问
 
 问
@@ -44,25 +48,28 @@
 ![](002images/02-qingwen.jpg)
 
 ---
-#导引
+
+
 你应该怎么用粤语说请问
 
 ![](002images/02-daoyin.jpg)
 
 ---
-#请问
+
+
 请问
 
 ![](002images/02-qingwen.jpg)
 
 ---
-#导引
+
+
 现在这位男士想问这位女士，她是否能够听得懂武汉话，武汉话这个词是这样说的。请聆听，并跟读。
 
 ![](002images/02-daoyin.jpg)
 
 ---
-##武汉话
+
 武汉话
 
 武
@@ -81,98 +88,98 @@
 
 ![](002images/02-03.jpg)
 
---
+---
 
-###请听导语。。。
-![](/003images/boyin.jpg)
+
+![](003images/boyin.jpg)
 
 ---
 
-##武汉话
-![](/003images/1.png)
+
+![](003images/1.png)
 
 ---
 
 ###请听导语。。。
-![](/003images/boyin.jpg)
+![](003images/boyin.jpg)
 
 ---
 
 ##请问
-![](/003images/2.png)
+![](003images/2.png)
 
 ---
 
 ###请听导语。。。
-![](/003images/boyin.jpg)
+![](003images/boyin.jpg)
 
 ---
 
 ##武汉话
-![](/003images/3.png)
+![](003images/3.png)
 
 ---
 
 ###请听导语。。。
-![](/003images/boyin.jpg)
+![](003images/boyin.jpg)
 
 ---
 
 ##请问
-![](/003images/4.png)
+![](003images/4.png)
 
 ---
 
 ###请听导语。。。
-![](/003images/boyin.jpg)
+![](003images/boyin.jpg)
 
 ---
 
 ##能  能
-![](/003images/5.png)
+![](003images/5.png)
 
---
+---
 
 #请听导引
-![](/image/daoyin.jpg)
+![](image/daoyin.jpg)
 
 ---
 
 #听。。。。。。听
-![](/image/ting.jpg)
+![](image/ting.jpg)
 
---
+---
 
-![](/image/shiting.jpg)
+![](image/shiting.jpg)
 
 
 ---
 
 #请听导引
-![](/004image/daoyin.jpg)
+![](004image/daoyin.jpg)
 
 
 ---
 
-![](/004image/shiting.jpg)
+![](004image/shiting.jpg)
 
 ---
 
-![](/004image/xuanze.jpg)
-
---
-
-![](/004image/ni-ni.jpeg)
+![](004image/xuanze.jpg)
 
 ---
 
-![](/004image/again.jpg)
+![](004image/ni-ni.jpeg)
 
 ---
 
-![](/004image/shiting.jpg)
+![](004image/again.jpg)
 
---
+---
+
+![](004image/shiting.jpg)
+
+---
 
 ![](005images/zenmeshuo.jpg)
 
@@ -201,7 +208,7 @@
 
 ![](005images/changshi.jpg)
 
---
+---
 
 ##本次课程  lesson 006##
 
@@ -235,7 +242,7 @@
 ##降低的声调是为了表达否定的意思，现在，我们两句话一起说一遍：“听得懂，听不懂。”
 ![](006images/006-2.jpg)
 
---
+---
 
 ##识听（听得懂）
 ![](007images/shiting.jpg)
@@ -300,7 +307,7 @@
 ##你识唔识听啊？（你听不听得懂？）
 ![](007images/nitingdedongma.jpg)
 
---
+---
 
 ##在句末的“啊”这个发音是为了让你的提问听起来更礼貌一些.现在问我是否能够听得懂...
 ![](008images/pangbai.jpg)
@@ -356,7 +363,7 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/xiaojie.jpg)
 
@@ -365,7 +372,7 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/qingwenxiaojie.jpg)
 
@@ -374,7 +381,7 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/nnftdd.jpg)
 
@@ -383,7 +390,7 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/wuhanhua.jpg)
 
@@ -392,7 +399,7 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/nnftddwuh.jpg)
 
@@ -401,38 +408,36 @@
 ##指导语##
 ![](/009images/zhidaoyu.jpg)
 
---
+---
 
 ![](/009images/tingbudong.jpg)
 
---
-
-#本次课程#
+---
 
 ##lesson 10##
 
---
+---
 
 ##你听不听得懂
 
 ![](010images/one.jpg)
 
---
+---
 
 ##听不懂,听不懂
 ![](010images/two.jpg)
 
---
+---
 
 ##我、我、我
 ![](010images/three.jpg)
 
---
+---
 
 ##我、我
 ![](010images/three.jpg)
 
---
+---
 
 ##我识听
 ![](011images/woshiting.jpg)
@@ -462,7 +467,7 @@
 ##唔识听
 ![](011images/wushiting.jpg)
 
---
+---
 
 ![](012images/daoyin1.jpg)
 
@@ -505,7 +510,7 @@
 
 ![](012images/daoyin5.jpg)
 
---
+---
 
 
 ![](013images/hua.jpg)
@@ -550,59 +555,59 @@
 
 ![](014images/a.jpg)
 
---
+---
 
 ![](014images/b.jpg)
 
---
+---
 
 ![](014images/c.jpg)
 
---
+---
 
 ![](014images/d.jpg)
 
---
+---
 
 ![](014images/e.jpg)
 
---
+---
 
 ![](014images/f.jpg)
 
---
+---
 
 ![](014images/g.jpg)
 
---
+---
 
 ![](014images/h.jpg)
 
---
+---
 
 ![](014images/i.jpg)
 
---
+---
 
 ![](014images/j.jpg)
 
---
+---
 
 ![](014images/k.jpg)
 
---
+---
 
 ![](014images/l.jpg)
 
---
+---
 
 ![](015images/guide.jpg)
 
---
+---
 
 ![](015images/word.jpg)
 
---
+---
 
 ![](015images/cantonese.jpg)
 
@@ -610,7 +615,7 @@
 
 ![](015images/guide.jpg)
 
---
+---
 
 ![](015images/listen_cantonese.jpg)
 
@@ -618,19 +623,19 @@
 
 ![](015images/guide.jpg)
 
---
+---
 
 ![](015images/a_little.jpg)
 
---
+---
 
 ![](015images/little.jpg)
 
---
+---
 
 ![](015images/a.jpg)
 
---
+---
 
 ![](015images/a_little.jpg)
 
@@ -638,11 +643,11 @@
 
 ![](015images/guide.jpg)
 
---
+---
 
 ![](015images/can_listen_a_little.jpg)
 
---
+---
 
 ![](015images/a_little.jpg)
 
@@ -650,7 +655,7 @@
 
 ![](015images/guide.jpg)
 
---
+---
 
 ![](015images/can_listen_cantonese.jpg)
 
@@ -684,7 +689,7 @@
 ##广东话
 ![](016images/lianggeci.jpg)
 
---
+---
 
 
 ---
@@ -760,9 +765,6 @@
 
 ---
 
-# 粤语教程
-
-## 第一单元
 
 ![](/19images/hubei.jpg)
 
