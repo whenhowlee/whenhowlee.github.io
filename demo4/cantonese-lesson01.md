@@ -90,6 +90,7 @@
 
 ---
 
+武汉话怎么说？
 
 ![](003images/boyin.jpg)
 
@@ -100,13 +101,22 @@
 
 ---
 
-###请听导语。。。
+请问
+
+![](003images/boyin.jpg)
+
+---
+
+![](003images/2.png)
+
+---
+
 ![](003images/boyin.jpg)
 
 ---
 
 ##请问
-![](003images/2.png)
+![](003images/4.png)
 
 ---
 
@@ -125,32 +135,22 @@
 
 ---
 
-##请问
-![](003images/4.png)
-
----
-
-###请听导语。。。
-![](003images/boyin.jpg)
-
----
-
 ##能  能
 ![](003images/5.png)
 
 ---
 
 #请听导引
-![](image/daoyin.jpg)
+![](004image/daoyin.jpg)
 
 ---
 
 #听。。。。。。听
-![](image/ting.jpg)
+![](004image/ting.jpg)
 
 ---
 
-![](image/shiting.jpg)
+![](004image/shiting.jpg)
 
 
 ---
@@ -207,10 +207,6 @@
 
 
 ![](005images/changshi.jpg)
-
----
-
-##本次课程  lesson 006##
 
 ---
 
