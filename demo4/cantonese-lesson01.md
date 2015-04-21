@@ -559,7 +559,7 @@
 
 ---
 
-![](013images/understand.png)
+![](013images/understand.jpg)
 
 ---
 
