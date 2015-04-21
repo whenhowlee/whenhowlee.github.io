@@ -283,7 +283,7 @@
 
 ---
 
-##
+
 ![](007images/daoyu.jpg)
 
 ---
@@ -360,56 +360,56 @@
 ---
 
 ##指导语##
-![](/009images/zhidaoyu.jpg)
+![](009images/zhidaoyu.jpg)
 
 ---
 
-![](/009images/xiaojie.jpg)
-
----
-
-##指导语##
-![](/009images/zhidaoyu.jpg)
-
----
-
-![](/009images/qingwenxiaojie.jpg)
+![](009images/xiaojie.jpg)
 
 ---
 
 ##指导语##
-![](/009images/zhidaoyu.jpg)
+![](009images/zhidaoyu.jpg)
 
 ---
 
-![](/009images/nnftdd.jpg)
-
----
-
-##指导语##
-![](/009images/zhidaoyu.jpg)
-
----
-
-![](/009images/wuhanhua.jpg)
+![](009images/qingwenxiaojie.jpg)
 
 ---
 
 ##指导语##
-![](/009images/zhidaoyu.jpg)
+![](009images/zhidaoyu.jpg)
 
 ---
 
-![](/009images/nnftddwuh.jpg)
+![](009images/nnftdd.jpg)
 
 ---
 
 ##指导语##
-![](/009images/zhidaoyu.jpg)
+![](009images/zhidaoyu.jpg)
 
 ---
 
-![](/009images/tingbudong.jpg)
+![](009images/wuhanhua.jpg)
+
+---
+
+##指导语##
+![](009images/zhidaoyu.jpg)
+
+---
+
+![](009images/nnftddwuh.jpg)
+
+---
+
+##指导语##
+![](009images/zhidaoyu.jpg)
+
+---
+
+![](009images/tingbudong.jpg)
 
 ---
 
