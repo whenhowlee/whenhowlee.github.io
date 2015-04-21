@@ -413,10 +413,6 @@
 
 ---
 
-##lesson 10##
-
----
-
 ##你听不听得懂
 
 ![](010images/one.jpg)
@@ -765,85 +761,73 @@
 ---
 
 
-![](/19images/hubei.jpg)
+![](19images/hubei.jpg)
 
 ---
 
-# 粤语教程
 
-## 第一单元
-
-![](/19images/be.jpg)
+![](19images/be.jpg)
 
 ---
 
-# 粤语教程
 
-## 第一单元
-
-![](/19images/i.jpg)
+![](19images/i.jpg)
 
 ---
 
-# 粤语教程
 
-## 第一单元
-
-![](/19images/you.jpg)
+![](19images/you.jpg)
 
 ---
 
-# 粤语教程
 
-## 第一单元
-
-![](/19images/sentence.jpg)
+![](19images/sentence.jpg)
 
 ---
 
 ##【导引】
-![](/020images/speak.jpg)
+![](020images/speak.jpg)
 
 --
 
 ##【粤语】“我唔识听武汉话......唔识听......”
-![](/020images/confused.jpg)
+![](020images/confused.jpg)
 
 --
 
 ##【导引】
-![](/020images/question.jpg)
+![](020images/question.jpg)
 
 ---
 
 ##【导引】
-![](/020images/speak.jpg)
+![](020images/speak.jpg)
 
 --
 
 ##【粤语】  “我唔系......唔系......唔系......我唔系......”
-![](/020images/no.jpg)
+![](020images/no.jpg)
 
 --
 
 ##【导引】
-![](/020images/ask.jpg)
+![](020images/ask.jpg)
 
 --
 
 ##【粤语】“你系唔系啊？系唔系......”
 
-![](/020images/choice.jpg)
+![](020images/choice.jpg)
 
 --
 
 ##【导引】
-![](/020images/ask.jpg)
+![](020images/ask.jpg)
 
 --
 
 ##【粤语】“你系唔系湖北人啊？ 你系唔系湖北人啊？”
-![](/020images/hubeiman.jpg)
+![](020images/hubeiman.jpg)
 
 ---
 
@@ -981,9 +965,6 @@
 
 ---
 
-#Lesson023
-
----
 
 ![](023images/qingwen.gif)
 
@@ -998,11 +979,6 @@
 ---
 
 ![](023images/no.gif)
-
----
-
-#made by
-#祁亚蓉、刘润芝、吴春云
 
 ---
 
@@ -1063,37 +1039,37 @@
 
 ---
 
-## ![](/025images/woman.png)
+## ![](025images/woman.png)
 
 "你识唔识听武汉话啊……你识唔识听武汉话啊……"
 
 ---
 
-## ![](/025images/man.png)
+## ![](025images/man.png)
 
 "识听...我识听...我识听武汉话"
 
 ---
 
-## ![](/025images/pangbai.png)
+## ![](025images/pangbai.png)
 
 她又有了另外一个问题,请用“一点”来回答她
 
 ---
 
-##![](/025images/woman.png)
+##![](025images/woman.png)
 
 "你识唔识听广东话啊"
 
 ---
 
-##![](/025images/man.png)
+##![](025images/man.png)
 
 "一点...我识听一点广东话"
 
 ---
 
-##![](/025images/pangbai.png)
+##![](025images/pangbai.png)
 
 而这正是事实。
 
