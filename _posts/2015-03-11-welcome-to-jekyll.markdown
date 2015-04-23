@@ -27,4 +27,8 @@ http://www.iallt.org/iallt_journal
 ## 相关网站 ##
 This site tries to explore Computer Assisted Language Learning defined as the search for and study of applications of the computer in language teaching and learning. Computer Assisted Language Learning (CALL) has come to encompass issues of materials design, technologies, pedagogical theories and modes of instruction.
 
-http://learningaftertomorrow.blogspot.com/
+[多媒体辅助语言学习](http://learningaftertomorrow.blogspot.com/)
+
+## 相关协会 ##
+
+[全美中文学校协会](http://www.csaus.net/)
