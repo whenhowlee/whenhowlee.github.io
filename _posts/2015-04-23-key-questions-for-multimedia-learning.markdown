@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Question for Muitlmedia Learning Research"
+title:  "Design Questions for Multimedia Learning Research"
 date:   2015-04-23 15:08:08
 categories: research
 ---
