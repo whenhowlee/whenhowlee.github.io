@@ -15,7 +15,7 @@
 
 ### [培训](http://4instructor.com/#!training.md) ###
 
-[网络研修社区](http://4instructor.com/discuz/)，用于教师网络研修，提供和教学相关的各类专题研讨，希望各位老师们踊跃参加！
+[网络研修社区](http://www.4instructor.com/)，用于教师网络研修，提供和教学相关的各类专题研讨，希望各位老师们踊跃参加！
 
 ###[教学](http://4instructor.com/#!teaching.md)###
 
