@@ -8,7 +8,7 @@
 [短链接](http://s.4instructor.com/)服务，大家可以用它来生成二维码
 
 
-[调查问卷](http://4instructor.com/limesurvey/)服务，提供问卷的制作、发布和统计功能
+[调查问卷](http://4instructor.com/limesurvey/)服务，提供问卷的制作、发布和统计功能，暂停服务 
 
 其他实用的教学功能正在更新中.....
 
@@ -20,7 +20,7 @@
 
 [本科大学生论文查重系统](http://ccnujwc.check.cnki.net/)
 
-我的[个人主页](http://m.4instructor.com/)，适合手机访问
+我的[个人主页](http://4instructor.com/)，适合手机访问
 
 
 ### 常用的网络链接 ###
