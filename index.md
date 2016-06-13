@@ -13,19 +13,16 @@
 详细信息请[点击](http://it.ccnu.edu.cn/shownews/index/2016_05/18/834.html)
 
 
-### [培训](http://4instructor.com/#!training.md) ###
+### [教学和培训](http://4instructor.com/#!training.md) ###
 
-[网络研修社区](http://www.4instructor.com/)，用于教师网络研修，提供和教学相关的各类专题研讨，希望各位老师们踊跃参加！
+[网络研修社区](http://www.4instructor.com/)，用于课程的教学，同时支持实习生网络研修，提供和教学相关的各类专题研讨！
 
-###[教学](http://4instructor.com/#!teaching.md)###
-
-[Moodle平台](http://r.4instructor.com/moodle/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
 
 ### 关于我 ###
 
 [关于我和我指导的学生](http://4instructor.com/#!about.md)，这是我和我学生的一些基本情况，在读的全日制学生都有严格的每周读书笔记制度，这是学生完成[协作写作](http://4instructor.com/#!jianshu.md)情况，每周三10点汇报[汇报安排](http://4instructor.com/#!huibao.md)，欢迎本科生们申请旁听。
 
 
-2016年2月29日更新
+2016年6月12日更新
 
 [鄂ICP备12016981号](http://www.miitbeian.gov.cn/) 
