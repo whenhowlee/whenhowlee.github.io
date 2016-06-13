@@ -13,10 +13,13 @@
 详细信息请[点击](http://it.ccnu.edu.cn/shownews/index/2016_05/18/834.html)
 
 
-### [教学和培训](http://4instructor.com/#!training.md) ###
+### 教学和培训 ###
 
 [网络研修社区](http://www.4instructor.com/)，用于课程的教学，同时支持实习生网络研修，提供和教学相关的各类专题研讨！
 
+[教学](http://4instructor.com/#!teaching.md)
+
+[培训](http://4instructor.com/#!training.md)
 
 ### 关于我 ###
 
