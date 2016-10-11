@@ -20,6 +20,8 @@
 
 [本科大学生论文查重系统](http://ccnujwc.check.cnki.net/)
 
+[教育部学位中心论文抽检评审](www.cdgdc.edu.cn/pgsh/index.action) 登录用户名154832
+
 我的[个人主页](http://4instructor.com/)，适合手机访问
 
 
