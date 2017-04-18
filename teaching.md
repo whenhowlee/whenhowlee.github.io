@@ -2,7 +2,7 @@
 
 ### 提供的教学服务支持 ###
 
-[Moodle平台](http://r.4instructor.com/moodle/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
+[Moodle平台](http://r.4instructor.com/moodle/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！服务器原因，暂停服务！
 
 
 [短链接](http://s.4instructor.com/)服务，大家可以用它来生成二维码
@@ -22,7 +22,7 @@
 
 [教育部学位中心论文抽检评审](http://www.cdgdc.edu.cn/pgsh/index.action) 登录用户名154832
 
-我的[个人主页](http://4instructor.com/)，适合手机访问
+[研究生课程作业提交](http://demo.4instructor.com/hw/login.php)
 
 
 ### 常用的网络链接 ###
