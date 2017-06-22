@@ -2,7 +2,7 @@
 
 ### 提供的教学服务支持 ###
 
-[Moodle平台](http://r.4instructor.com/moodle/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！服务器原因，暂停服务！
+[Moodle平台](http://b.4instructor.com/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
 
 
 [短链接](http://s.4instructor.com/)服务，大家可以用它来生成二维码
@@ -35,6 +35,6 @@
 
 [共享讨论桌面](http://zh-cn.padlet.com/whenhowlee/)服务，提供桌面便利贴的功能，方便小组讨论
 
-2016年6月5日更新
+2017年6月5日更新
 
 [回到首页](http://4instructor.com/#!index.md)
