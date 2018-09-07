@@ -4,6 +4,9 @@
 
 [Moodle平台](http://b.4instructor.com/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
 
+[微视频预习](http://qqda.ren/)，这是课程教学技术与媒体的预习微视频登录地址！
+
+[实验资源](https://manda.ren/)，这是课程教学技术与媒体的实验资源展示地址！
 
 [短链接](http://s.4instructor.com/)服务，大家可以用它来生成二维码
 
@@ -35,6 +38,6 @@
 
 [共享讨论桌面](http://zh-cn.padlet.com/whenhowlee/)服务，提供桌面便利贴的功能，方便小组讨论
 
-2017年6月5日更新
+2018年9月5日更新
 
 [回到首页](http://4instructor.com/#!index.md)
