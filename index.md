@@ -6,7 +6,7 @@
 
 我的微信公众号-学习创新
 
-![学习创新](e-instructor.jpeg)
+![学习创新](e-instruction.jpg)
 
 ### 教学和培训 ###
 
