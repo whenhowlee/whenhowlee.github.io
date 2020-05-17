@@ -6,7 +6,7 @@
 
 [教学日志](https://elearning2.cn/)，记录个人成长的点点滴滴！
 
-![微信公众号-学习创新](/e-instruction.jpg)，请微信检索e-instruction或者扫码，个人自建的微信公众号！
+![微信公众号-学习创新](e-instruction.jpg)，请微信检索e-instruction或者扫码，个人自建的微信公众号！
 
 其他实用的教学功能正在更新中.....
 
