@@ -2,16 +2,11 @@
 
 ### 提供的教学服务支持 ###
 
-[Moodle平台](http://b.4instructor.com/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
+[Moodle平台](https://atutor.cn/)，这是我的教学平台，支持学生内容管理，希望同学们经常登陆！
 
-[微视频预习](http://qqda.ren/)，这是课程教学技术与媒体的预习微视频登录地址！
+[教学日志](https://elearning2.cn/)，记录个人成长的点点滴滴！
 
-[实验资源](https://manda.ren/)，这是课程教学技术与媒体的实验资源展示地址！
-
-[短链接](http://s.4instructor.com/)服务，大家可以用它来生成二维码
-
-
-[调查问卷](http://4instructor.com/limesurvey/)服务，提供问卷的制作、发布和统计功能，暂停服务 
+[微信工作号](学习创新)，这是课程教学技术与媒体的实验资源展示地址！
 
 其他实用的教学功能正在更新中.....
 
@@ -25,7 +20,7 @@
 
 [教育部学位中心论文抽检评审](http://www.cdgdc.edu.cn/pgsh/index.action) 登录用户名154832
 
-[研究生课程作业提交](http://demo.4instructor.com/hw/login.php)
+
 
 
 ### 常用的网络链接 ###
@@ -34,10 +29,10 @@
 
 我的[优酷视频链接](http://i.youku.com/education "youku视频") ，里面提供了我上现代教育技术公共课和多媒体学习专业课的一些教学素材，欢迎大家观看！ 
 
-我的研究生团队的协作写作空间[简书地址](http://www.jianshu.com/users/7d0d0c1d6710/ "jianshu地址")
+我的研究生团队的协作写作空间[简书地址](http://www.jianshu.com/users/7d0d0c1d6710/ "jianshu地址")（2016年停止更新）
 
 [共享讨论桌面](http://zh-cn.padlet.com/whenhowlee/)服务，提供桌面便利贴的功能，方便小组讨论
 
-2018年9月5日更新
+2020年5月5日更新
 
 [回到首页](http://4instructor.com/#!index.md)
