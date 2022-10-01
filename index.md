@@ -14,7 +14,7 @@
 
 ### 教学和培训 ###
 
-[学习创新平台](http://atutor.cn/)，用于课程的教学，同时支持实习生网络研修，提供和教学相关的各类专题研讨！
+[学习创新平台](http://qqda.ren/)，用于课程《教学技术与媒体》的教学内容支持！
 
 [教学](http://4instructor.com/#!teaching.md)
 
@@ -25,6 +25,6 @@
 [关于我和我指导的学生](http://4instructor.com/#!about.md)，这是我和我学生的一些基本情况，在读的全日制学生都有严格的每周读书笔记制度，这是学生完成[协作写作](http://4instructor.com/#!jianshu.md)情况，每周三10点汇报[汇报安排](http://4instructor.com/#!huibao.md)，欢迎本科生们申请旁听。
 
 
-2020年5月17日更新
+2022年5月17日更新
 
 [鄂ICP备12016981号](http://www.miitbeian.gov.cn/) 
